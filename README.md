@@ -1,4 +1,4 @@
-### Hi there 👋
+
 ![Example eNATL60](https://github.com/mballaro/swot_simulator_interpolations/blob/master/examples/example_eNATL60_swot_calval.gif)
 <!--
 **mballaro/mballaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
